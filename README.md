@@ -28,7 +28,6 @@ oss-audit-[rollnumber]/
 ├── disk_auditor.sh
 ├── log_analyzer.sh
 ├── manifesto_generator.sh
-└── screenshots/
 ```
 
 ---
